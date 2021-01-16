@@ -11,7 +11,6 @@
         "anlutro/l4-settings": "^0.4.9",
         "greggilbert/recaptcha": "^2.1",
         "uxweb/sweet-alert": "^1.4",
-        "sumanion/laravel-cloudflare": "^1.0",
         "barryvdh/laravel-debugbar": "^2.3",
         "mews/purifier": "^2.0"
     },
